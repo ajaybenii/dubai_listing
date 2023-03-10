@@ -20,9 +20,9 @@ RUN apt-get clean && apt-get update && apt-get install -y locales locales-all
 
 ADD . /home/app
 
-EXPOSE 8080
+EXPOSE 9901
 
-ENV PORT="${PORT:-8080}"
+ENV PORT="${PORT:-9901}"
 
 CMD gunicorn main:app \
     --bind 0.0.0.0:$PORT \
