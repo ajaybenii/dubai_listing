@@ -20,7 +20,8 @@ FURNISH_TOKEN = "__SPECIALTOKEN__"
 
 ps = PorterStemmer()
 inflect_engine = inflect.engine()
-locale.setlocale(locale.LC_MONETARY, 'en_IN')
+locale.setlocale(locale.LC_ALL,'en_US.UTF-8')
+# locale.setlocale(locale.LC_MONETARY, 'en_IN')
 
 def replace_nth(str_):
     return str_.replace(",", "")\
