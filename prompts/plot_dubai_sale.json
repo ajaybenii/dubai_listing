@@ -1,0 +1,41 @@
+[
+  {
+    "listing_type": "sale",
+    "keywords": "spacious, breakthrough, investment, prime, safe & secure neighborhood, wide roads, public transportation",
+    "city": "Ajman",
+    "locality": "Al Mwaihat",
+    "area": 111,
+    "area_unit": "Square Yards",
+    "price": 9000005,
+    "plot_number": 40,
+    "facing": "east",
+    "amenities": "24 hour security, badminton court",
+    "description": "A spacious 111 square yards plot is available at a breakthrough sale price of AED 90,00,005 as a great investment opportunity in a prime location of the city. The plot is located at Al Mwaihat near suitably wide roads and in one of Ajman's fastest growing locations. It lies in a safe & secure neighborhood while being close to public transportation as well.The locality has excellent future growth prospects. The plot has the number 40 within a gated layout and faces towards the east. This property has amenities such as  24 hour security, badminton court."
+  },
+  {
+    "listing_type": "sale",
+    "keywords": "compelling, prime, investment, public transportation",
+    "city": "Dubai",
+    "locality": "Dubai Creek Harbour",
+    "area": 242,
+    "area_unit": "Square Yards",
+    "price": 725000,
+    "plot_number": 253,
+    "facing": "south",
+    "amenities": "Large Green Area, Restaurant, Pre-School",
+    "description": "A 242 square yards plot is available at a compelling sale price of AED 7,25,000 in a prime location of Dubai. This represents a wonderful investment opportunity for the future, particularly in terms of appreciation potential. The plot is located at Dubai Creek Harbour, one of Dubai's most popular localities, this locality is close to public transportation. This is an south facing plot that is numbered 253. It includes amenities such as Large Green Area, Restaurant and Pre-School."
+  },
+  {
+    "listing_type": "sale",
+    "keywords": "coveted, prime location, public transportation, residential",
+    "city": "Sharjah",
+    "locality": "Maryam Island",
+    "area": 2000,
+    "area_unit": "Square Yards",
+    "price": 400000055,
+    "plot_number": 1,
+    "facing": "south",
+    "amenities": "visitor's parking, view of landmark and attached market",
+    "description": "Plot is available for sale in a coveted and prime location, encompassing 2000 square yards and for a competitive price of AED 40,00,00,055. Maryam Island is a premier locality in Sharjah and close to public transportation, this is a major plus point for buyers of plot here. This is residential land and is numbered as 1, in a prime location with excellent future prospects. Some of the amenities are  visitor's parking, view of landmark and attached market."
+  }
+]  

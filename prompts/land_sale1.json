@@ -1,0 +1,55 @@
+[
+    {
+
+        "listing_type": "sale",
+        "keywords": "peaceful vicinity, near city center, safe and secure locality, ample parking",
+        "city": "Bangalore",
+        "locality": "Academic City",
+        "area": 1200,
+        "area_unit": "sqft",
+        "price": 567000,
+        "plot_number": 11,
+        "facing": "south west",
+        "amenities": "badminton court, attached market, 24x7 security",
+        "description": "An astonishing land area has come out for SALE in one of the most safe and secure locality of Bangalore that is well known for its centralized market and ample parking spaces that it offers within the vicinity. Covering a large area of 1200 sqft, this land is a very accurate option. land number is 11 and it covers a well expanded area of 1200 sqft and is available in market place at Rs 5,67,000. This south west facing land has efficient  24x7 security available which makes the vicinity peaceful for both families and bachelors. Placed near city center in locality of Academic city, all the accomodation and markets are within reach. Badminton court is also near to the land. "
+    },
+    {
+        "listing_type": "sale",
+        "keywords": "peaceful vicinity, near city center, safe and secure locality, investment oppurtunity",
+        "city": "Gurgaon",
+        "locality": "DLF phase 2",
+        "area": 1900,
+        "area_unit": "sqft",
+        "price": 67800099,
+        "plot_number": 37,
+        "facing": "north west",
+        "amenities": "medical facility, large green area, attached market, 24x7 security",
+        "description": "With a well settled residency and secured locality, an open land is at sale at remarkably affordable price giving the right oppurtunity to the buyers to make a strong and valued investment. This land is at a price point of Rs 6,78,00,099. With 1900 sqft of total area, land number is 37 in DLF phase 2. With large green area all around and attached market place near the land, this a north west facing land. Understanding that safety is biggest concern for most buyers, 24x7 security is avilable around. Present in peaceful vicinity, medical facilities are also adjacent to the land which is desired by both families and bachelors."
+    },
+    {
+        "listing_type": "sale",
+        "keywords": "well maintained, family, bachelors, safe and secure locality",
+        "city":"Lucknow",
+        "locality": "wazirabad",
+        "area": 191,
+        "area_unit": "sqyd",
+        "price": 2400000,
+        "plot_number": 24,
+        "facing": "north east",
+        "amenities": "medical facility, large green area, attached market, security stuff",
+        "description": "Considering that most of the buyers these days consider to prefer a very safe and secured locality, a 191 sqyd open land has come up for sale in the safe premises of waziarabad locality of Lucknow. Listed at a  price of Rs 24,00,000, land is north east faced and resides at number land number 24. Residing in wazirabad, this land has adjoined medical facilities as well. Under large green area, this land is suited for families and bachelors looking to start a new venture."
+    },
+    {
+        "listing_type": "sale",
+        "keywords": "spacious, breakthrough, investment, prime, safe & secure neighborhood, wide roads, public transportation",
+        "city": "Hyderabad",
+        "locality": "Madhapur",
+        "area": 111,
+        "area_unit": "Square Yards",
+        "price": 9000005,
+        "plot_number": 40,
+        "facing": "east ",
+        "amenities": "24 hour security, badminton court, power back-up",
+        "description": "Very well established locality of Madhapur, Hyderabad holds an 111 square yards land which can be bought at a break-through and affordable price point. At a price of Rs 90,00,005, buyers can enjoy a green and spacious area. This east facing land is numbered 40 within the safe and secure locality. Facilities including power back-up and 24 hour security, makes this locality extra special for families. land is just adjacent to a wide road and badminton court which makes it more valuable for families. Present at a prime location, land is strong investment as well."
+    }
+]  

@@ -1,0 +1,41 @@
+[
+  {
+    "listing_type": "sale",
+    "keywords": "spacious, breakthrough, investment, prime, safe & secure neighborhood, wide roads, public transportation",
+    "city": "Hyderabad",
+    "locality": "Madhapur",
+    "area": 111,
+    "area_unit": "Square Yards",
+    "price": 9000006,
+    "plot_number": 40,
+    "facing": "east",
+    "amenities": "24-hour security, badminton court",
+    "description": "A spacious 111 square yards land is available at a breakthrough sale price of 90,00,006 as a great investment opportunity in a prime location of the city. The land is located at Madhapur near suitably wide roads and in one of fastest growing locations of Hyderabad. It lies in a safe & secure neighborhood while being close to public transportation as well. The locality has excellent future growth prospects. The land has the number 40 within a gated layout and faces towards the east. This property has amenities like 24-hour security and badminton court."
+  },
+  {
+    "listing_type": "sale",
+    "keywords": "compelling, prime, investment, public transportation",
+    "city": "Delhi",
+    "locality": "Dwarka",
+    "area": 242,
+    "area_unit": "Square Yards",
+    "price": 72500,
+    "plot_number": 253,
+    "facing": "south",
+    "amenities": "large green Area, restaurants, pre-school",
+    "description": "A 242 square yards land is available at a compelling sale price of Rs 72,500 in a prime location of Delhi. This represents a wonderful investment opportunity for the future, particularly in terms of appreciation potential. The land is located at Dwarka, one of Delhi's most popular localities, this locality is close to public transportation. This is an south facing land that is numbered 253. It includes amenities such as large green area, restaurants and pre-school."
+  },
+  {
+    "listing_type": "sale",
+    "keywords": "coveted, prime location, public transportation, residential",
+    "city": "Hyderabad",
+    "locality": "Hitech City",
+    "area": 2000,
+    "area_unit": "Square Yards",
+    "price": 4000000066,
+    "plot_number": 1,
+    "facing": "south",
+    "amenities": "visitor's Parking, view of Landmark and attached Market",
+    "description": "Land is available for sale in a coveted and prime location, encompassing 2000 square yards and for a competitive price of Rs 4,00,00,00,066. Hitech City is a premier locality in Hyderabad and close to public transportation, this is a major plus point for buyers of land here. This is commercial land and is numbered as 1, in a prime location with excellent future prospects. Some of the amenities are  visitor's Parking, view of Landmark and attached Market."
+  }
+] 

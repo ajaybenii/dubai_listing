@@ -1,0 +1,44 @@
+[
+	{
+		"keywords": "peaceful vicinity, prime location, gated society, luxury lifestyle, prime location, investment opportunity",
+		"city": "Delhi",
+		"locality": "dwarka sector 25",
+		"area": 200,
+		"area_unit": "sqyd",
+		"price": 567000,
+		"furnishing": "Furnished",
+		"washroom_present": "yes",
+		"parking": 7,
+		"floor_number": 3,
+		"amenities": "multiplex, power backup, medical facility, 24 hour security",
+		"description":"Prooving to be a truly great investment opportunity, this Furnished retail shop with best in class facilities has come out for sale in the pretigious vicinity of dwarka sector 25 in Delhi. At a justified price of Rs. 5,67,000 this retail area has 24 hour of security. Having a good area of 200 sqyd, washroom is also attached within the shop area. 7 varied parking slots are also present along with the medical facility and power backup. This property is on 3rd floor and this locality is known for its commercial complexes and multiplexes."
+	},
+	{
+		"keywords": "peaceful vicinity, attached market, 24x7 security, prime location, investment opportunity",
+		"city": "Surat",
+		"locality": "surat nagar ",
+		"area": 2040,
+		"area_unit": "sqft",
+		"price": 1234567,
+		"furnishing": "Semi-Furnished",
+		"washroom_present": "no",
+		"parking": 1,
+		"floor_number": 8,
+		"amenities": "multiplex, power backup, medical facility, 24 hour security",
+		"description":"Under the peaceful vicinity of surat nagar, this residential shop just lauched on SALE having amenities like no other. This locality offers complete safety and security, also attracts vendors from all over the state. At a price of Rs. 12,34,567, a total area of 2040 sqft is present. Present at 8th floor in its building, this property also has a parking space and power back up as well. Multiplex and medical facilities are just around the corner."
+	},
+	{
+		"keywords": "peaceful vicinity, near city center, spacious",
+		"city": "Lucknow",
+		"locality": "Auranga nagar",
+		"area": 1200,
+		"area_unit": "sqft",
+		"price": 7245677,
+		"furnishing": "Furnished",
+		"washroom_present": "yes",
+		"parking": 3,
+		"floor_number": 11,
+		"amenities": "attached market, 24x7 security, balcony, central wi-fi, cleaning services",
+		"description":"This rapidly changing vicinity of auranga nagar which is best known for its abundance in retail and commercial markets, holds this spacious area of retail shop which is very close to the city center. Residing at 11th floor, in its native building this shop can be bought at a sort after price of Rs 72,45,677. Covering a large area of 1200 sqft, this shop is furnished and has separate washrooms attached as well. Distinctive 3 parking spaces adds on to the value of property and remarkable facilities including central wi-fi and presence of balcony is also there."
+	}
+]

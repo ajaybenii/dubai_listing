@@ -1,0 +1,53 @@
+[
+	{
+		"keywords": "peaceful vicinity, near city center, safe and secure locality, spacious",
+	    "city": "Gurgaon",
+	    "locality": "Cyber Hub",
+	    "area": 1200,
+	    "area_unit": "sqft",
+	    "price": 87000,
+	    "furnishing": "Furnished",
+	    "washroom_present": "yes",
+	    "parking": 3,
+	    "office_space_type": "fitted",
+	    "pantry": "dry",
+	    "facing": "south east",
+	    "floor_number": 5,
+	    "amenities": "24x7 security, balcony, central wi-fi, reception, cleaning services, security staff",
+	    "description": "With exquisite facilities, a spacious and remarkable office spaces is present amidst the center of one of the most prominent commercial localities - Cyber hub in Gurgaon. With cleaning services, security staff and all other facilities, this commercial property can be bought at an affordable rent of Rs. 87,000. It is a Furnished office space with total area of 1200 sqft and has 24x7 security. Facing south east, this office space is equipped with a dry pantry and has central wi-fi with distinct 3 parking spaces as well. With presence of washrooms, this office space holds a spacious balcony as well. This locality is famous for its high, well ventilated buildings with spacious parking and security."
+	},
+	{
+		"keywords": "peaceful vicinity,investment oppurtunity, renovated, safe and secure locality, spacious",
+	    "city": "Delhi",
+	    "locality": "karol bagh",
+	    "area": 768,
+	    "area_unit": "sqft",
+	    "price": 110000,
+	    "furnishing": "semi-furnished",
+	    "washroom_present": "yes",
+	    "parking": 5,
+	    "office_space_type": "fitted",
+	    "pantry": "wet",
+	    "facing": "east",
+	    "floor_number": 3,
+	    "amenities": "24x7 security, balcony, central wi-fi, large green zone, power backup, cleaning services, security staff",
+	    "description": "Under the peaceful vicinity of Karol bagh in Delhi, a great investment opportunity is open for rent. A complete area of 768 sqft, has come out at an rent of Rs. 1,10,000. This semi-furnished office space is east facing and have some very favourable amenities including - balcony, power backup and security staff. A total of 5 parking with 24x7 security is present to administer a safe and secure locality. Wet pantry and washroom, both available within the space, a large green area is also surrounding the vicinity. This renovated office space is equipped with high-class custom facilities that nearly every commercial office desire these days."
+	},
+	{
+		"keywords": "peaceful vicinity,investment oppurtunity, renovated, safe and secure locality, spacious",
+	    "city": "Banglore",
+	    "locality": "jayanagar",
+	    "area": 2000,
+	    "area_unit": "sqft",
+	    "price": 156000,
+	    "furnishing": "furnished",
+	    "washroom_present": "yes",
+	    "parking": 6,
+	    "office_space_type": "fitted",
+	    "pantry": "wet",
+	    "facing": "south east",
+	    "floor_number": 7,
+	    "amenities": "CCTV security, large green area, medical facility, 24 hour security",
+	    "description": "This modern built office space is on for RENT with remarkable facilities. At Rs 1,56,000 and being furnished there are 6 distinct parking with a wet pantry available as well which justifies the price well enough. Surrounded with large area, the property lies centrally in locality of Jayanagar, Bangalore. Covering an overall area of 2000 sqft, the property is facing towards south east. At a sophisticated price point, this office space covers an epitome of amenities which include 24 hour security, medical facility just adjacent to the property. Present at the 7th floor, this furnished office space holds washroom within the property and medical facility as well."
+	}
+]

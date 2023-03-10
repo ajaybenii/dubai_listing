@@ -1,0 +1,53 @@
+[
+	{
+		"keywords":"safe and secure locality, public transportation, wide roads",
+		"city":"Delhi",
+		"locality":"Patel Nagar",
+		"area": 1250,
+		"area_unit": "sqft",
+		"price": 2000000,
+		"furnishing": "furnished",
+		"office_space_type": "semi fitted",
+		"pantry": "dry",
+		"washroom_present": "yes",
+		"parking": 3,
+		"facing": "west",
+		"floor_number": 7,
+		"amenities": "24 hour security, power backup and visitors’ parking facilities",
+		"description": "With remarkable facilities and top notch security, Patel Nagar in Delhi is known for its custom build office spaces and commercial areas. Under such vicinity, this office space in IT/SEZ is recently opened on Sale. This area can be bought in Rs. 20,00,000 which is justified price considering this office space holds a dry pantry, washroom and 3 parking spaces as well. Being a great investment to the buyers, this office space holds a good 1250 sqft of area, all divided for commercial purpose. Being furnished, 24 hour security is one of its greatest asset. Adjacent to the wide road, this office space is facing towards west and is semi-fitted in nature. Visitor's parking is also included with the office space which is placed at the 7th floor."
+	},
+	{
+		"keywords": "peaceful vicinity, investment opportunity, renovated, tasteful interiors",
+		"city": "Gurgaon",
+		"locality": "cyber hub",
+		"area": 1778,
+		"area_unit": "sqft",
+		"price": 9030000,
+		"furnishing": "semi-furnished",
+		"office_space_type": "fitted",
+		"pantry": "wet",
+		"washroom_present": "yes",
+		"parking": 5,
+		"facing": "south west",
+		"floor_number": 9,
+		"amenities": "24x7 security, balcony, central wi-fi, visitors’ parking facilities",
+		"description": "Residing in the esteemed locality of cyber hub in Gurgaon which is considerably the hub for commercial organisations, this office space in IT/SEZ is open for sale at a price which is justified for both small and large scale companies. At a price of Rs. 90,30,000 this office space covers a wholesome area of 1778 sqft. Under the semi-furnished space, a wet pantry and washroom are also available making life comfortable for the users. Spacious 5 parking slots are also present while the office space itself is on the 9th floor of this native building. Facing towards south west, a commitment of 24x7 security also comes with the office space itself. Facilities including central wi-fi, visitor's parking gives this office space an edge over the rest in the market."
+	},
+	{
+		"keywords": "investment opportunity, tasteful interiors",
+		"city": "Banglore",
+		"locality": "electronic city",
+		"area": 2345,
+		"area_unit": "sqyd",
+		"price": 987654,
+		"furnishing": "unfurnished",
+		"office_space_type": "semi- fitted",
+		"pantry": "dry",
+		"washroom_present": "yes",
+		"parking": 7,
+		"facing": "west",
+		"floor_number": 12,
+		"amenities": "24x7 security, large green area, medical facility",
+		"description":"Prooving to be an amazing investment opportunity, this office space in IT/SEZ recently came in the market, open for sale. Present amidst one of the safest localities of Banglore city, office space is on the 12th floor of this native building in the secure locality of electronic city. With a total of 7 parking spaces and dry pantry, this office space is avilable at a price of Rs. 9,87,654. Covering a spacious saleable area of 2345 sqyd, this office space is surrounded by a large green area. Being unfurnished, facing towards the west and lying in a peaceful vicinity, the area ensures 24x7 security parameters and medical facilities."
+	}
+]

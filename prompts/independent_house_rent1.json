@@ -1,0 +1,53 @@
+[
+	{
+		"keywords": " peaceful vicinity, near city center, safe and secure locality, fully renovated",
+		"city": "Banglore",
+		"locality": "Academic city",
+		"area": 1200,
+		"area_unit": "sqft",
+		"price": 65567,
+		"furnishing": "Furnished",
+		"bedrooms": 3,
+		"bathrooms": 2,
+		"parking": 1,
+		"facing": "east",
+		"property_age": "5-7 years",
+		"total_floor_count": 6,
+		"amenities": "cleaning services, security staff, maintenance staff, CCTV security, large green area, medical facility",
+		"description": "With a remarkable area of 1200 sqft, this Furnished independent house has recently been released in the market place with facilities like no other. Fully renovated, this custom-built house is covered with 3 bedrooms, 2 bathrooms and 1 distinct parking at monthly rent of Rs 65,567. With property age of just 5-7 years, this house faces towards east with a large green area covering. With 6 landscaping floors, this independ house is adjacent to all medical facilities of locality. With the peaceful vicinity, maintenance staff and cleaning servives also comes hand-in-hand which makes it quite suitable for families. Area is covered with CCTV security, which ensures no security breaches. To the tenants who are seeking an luxurious atmosphere with the comfortable fully renovated house - this place is a perfect match. Present admist the posh locality of Academic city in Banglore."
+	},
+	{
+		"keywords": "fully renovated, tasteful interiors, ample parking, well ventilated, gated society",
+		"city": "Lucknow",
+		"locality": "Indira nagar",
+		"area": 300,
+		"area_unit": "sqyd",
+		"price": 19111,
+		"furnishing": "unfurnished",
+		"bedrooms": 5,
+		"bathrooms": 4,
+		"parking": 3,
+		"facing": "south west",
+		"property_age": "1-2 years",
+		"total_floor_count": 8,
+		"amenities": "jogging cum cycling track, gymnasium, playing area for children, large green area, power backup, squash court",
+		"description": "In the modern and luxurious locality of Indira nagar, a majestic independent house of a land area of 300 sqyd has come out for rent at Rs. 19,111. The 5 bedrooms with 4 bathroom and 8 varied floors definately justifies the price. 2 ample parking spaces are also present with gymnasium just around the corner. Facilities like power back up and gated society really enhances the living culture to a new standard. This south west facing house is adjacent to jogging cum cycling track and has been in the locality for just 1-2 years. The house is very well known for its tasteful interiors and well ventilation among its neighbourhood. Variety of amazing amenities makes this house  a favorable place for families to start a new life."
+	},
+	{
+		"keywords": "gated society, luxury lifestyle, prime location, family",
+		"city": "Gurgaon",
+		"locality": "Cyber hub",
+		"area": 1200,
+		"area_unit": "sqft",
+		"price": 150000,
+		"furnishing": "furnished",
+		"bedrooms": 2,
+		"bathrooms": 2,
+		"parking": 1,
+		"facing": "south west",
+		"property_age": "3-4 years",
+		"total_floor_count": 7,
+		"amenities": "cleaning services, security staff, maintenance staff, CCTV security, large green area",
+		"description": "Very well established locality of Cyber hub, Gurgaon holds an 1200 sqft independent house which can be rented at a break-through and affordable rent of Rs 1,50,000. At this price, house has spacious 2 bedrooms, 2 bathrooms and 1 parking space as well. This south west facing house has 7 distinct floors within the safe and secure locality.Independent house is present in gated society which makes it more valuable for families. Facilities including cleaning services, maintenance staff makes this locality extra special for families."
+	}
+]

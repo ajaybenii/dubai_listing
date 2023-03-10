@@ -1,0 +1,50 @@
+[
+  {
+    "listing_type": "rent",
+    "keywords": "spacious, prime",
+    "city": "Ajman",
+    "locality": "Al Mwaihat",
+    "area": 12000,
+    "area_unit": "Square Feet",
+    "price": 1000000,
+    "washroom_present": "yes",
+    "parking": 2,
+    "description": "A spacious Warehouse having a total area of 12000 square feet is available for a rental amount of AED 10,00,000. The warehouse offers 2 parking spots, power backup and a personal washroom. The property is situated in the prime location of Al Mwaihat, Ajman."
+  },
+  {
+    "listing_type": "rent",
+    "keywords": "compact",
+    "city": "Dubai",
+    "locality": "Dubai Creek Harbour",
+    "area": 1300,
+    "area_unit": "Square Feet",
+    "price": 129000,
+    "washroom_present": "yes",
+    "parking": 1,
+    "description": "A compact Warehouse is available for a rent of AED 1,29,000 with total area of 1300 square feet. The Warehouse offers a personal washroom and 1 parking spot as well. The property is situated in the prime location of Dubai Creek Harbour in Dubai."
+  },
+  {
+    "listing_type": "rent",
+    "keywords": "premium, prime",
+    "city": "Sharjah",
+    "locality": "Maryam Island",
+    "area": 1790,
+    "area_unit": "Square Feet",
+    "price": 2300000,
+    "washroom_present": "no",
+    "parking": 3,
+    "description": "A premium 1790 square feet warehouse is available for rent at an affordable amount of AED 23,00,000. This is a spacious warehouse  with 3 parking space as well. The warehouse is located in the prime location of Maryam Island, Sharjah."
+  },
+  {
+    "listing_type": "rent",
+    "keywords": "competitive, coveted, prime",
+    "city": "Dubai",
+    "locality": "Downtown Dubai",
+    "area": 2000,
+    "area_unit": "Square Feet",
+    "price": 40000,
+    "washroom_present": "no",
+    "parking": 5,
+    "description": "Warehouse is available for rent in a coveted and prime location, encompassing 2000 square feet and for a competitive AED 40,000. This warehouse has 5 parking space, this is a major plus point for renters of warehouse here. Downtown Dubai is a premier locality in Dubai and close to public transportation."
+  }
+]

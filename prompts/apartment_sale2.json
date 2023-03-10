@@ -1,0 +1,57 @@
+[
+ { 
+   "keywords": "Peaceful vicinity, near city center, spacious, well maintained",
+	"city": "Banglore",
+	"locality": "BTM Layout",
+	"area": 791,
+	"area_unit": "sqft",
+	"price": 4568900,
+	"furnishing": "furnished", 
+	"bedrooms": 7,
+	"property_age": "7 years",
+	"bathrooms": 3,
+	"parking": 2,
+	"facing": "south",
+	"floor_number": 9,
+	"total_floor_count": 10,
+	"amenities": "gymnasium, visitor's parking, balcony, study room",
+	"description":"BTM Layout - with complete safety and peacefulness, this locality is residents top choice since it offers peaceful living. Under this prestigious locality, this south facing apartment has been listed out for sale. With 791 sqft of total area, 7 bedrooms and 3 bathroom have been designed. Apartment holds 9th floor in a 10 storey residential building. This well maintained furnished  apartment comes with balcony and study room,  It is listed at a breakthrough price of Rs. 45,68,900 and is near city center as well. This property is 7 years old. BTM Layout is also famous for providing ample space houses at an affordable price range.  Residents who seek a luxury lifestyle with the comfort and safety of a gated society are the best suited for the apartment. Gymnasium is also adjacent to the apartment."
+ },
+ {
+	"keywords": "spacious, well venntilated, well maintained",
+	"city": "Delhi",
+	"locality": "Rajendra Place",
+	"area": 1500,
+	"area_unit": "sqft",
+	"price": 7000000,
+	"furnishing": "semi-furnished", 
+	"bedrooms": 4,
+	"property_age": "2-4 years",
+	"bathrooms": 2,
+	"parking": 1,
+	"facing": "north east",
+	"floor_number": 3,
+	"total_floor_count": 9,
+	"amenities": "gymnasium, visitor's parking, serviced apartments, food court",
+	"description":"The listed semi-furnished apartment resides in peaceful vicinity of Rajendra place, Delhi and is on sale. With neat services, visitor's parking and adjacent food court. Apartment provides a safe and secured place to live a happy life.This well maintained apartment can be bought at an affordable price of Rs 70,00,000. With 1500 sqft of area, apartment is present at 3rd floor in a 9 storey building. Whole area is designed and divided in 4 bedrooms, 2 bathrooms. Spacious 1 parking slot is also available for the residents. Well ventilated, apartment is north east facing."
+
+ },
+ {
+    "keywords": "spacious, prime, competitive, family, public transportation",
+    "city": "Gurgaon",
+    "locality": "Sector 45",
+    "area": 870,
+    "area_unit": "Square Feet",
+    "price": 4800000011,
+    "furnishing": "Furnished",
+    "bedrooms": 4,
+    "property_age": "5-7 years",
+    "bathrooms": 3,
+    "parking": 2,
+    "facing": "north west",
+    "floor_number": 10,
+    "total_floor_count": 20,
+    "amenities": "24-hour security services, playing zones for children, power backup",
+    "description":"Enjoy buying spacious 870 square feet apartment in a prime location at a competitive price of Rs 4,80,00,00,011. Residents will enjoy 4 bedrooms, 3 bathrooms and 2 parking facility at this property, making it suitable for family. The property lies close to public transportation in Sector 45, one of Gurgaon's poshest localities. This stylishly designed property faces the north west while being 5-7 years old and lies on the 10th floor of a 20 storied building. It is a furnished unit. Amenities available in this apartment includes 24-hour security services, playing zones for children, power backup and more."
+  }
+]

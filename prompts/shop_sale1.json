@@ -1,0 +1,44 @@
+[
+	{
+		"keywords": "peaceful vicinity, near city center, spacious",
+		"city": "Lucknow",
+		"locality": "Auranga nagar",
+		"area": 1200,
+		"area_unit": "sqft",
+		"price": 7245677,
+		"furnishing": "Furnished",
+		"washroom_present": "yes",
+		"parking": 3,
+		"floor_number": 1,
+		"amenities": "attached market, 24x7 security, balcony, central wi-fi, cleaning services",
+		"description":"Under this rapidly changing vicinity of auranga nagar which is best known for its abundance in retail and commercial markets, holds this spacious area of retail shop which is very close to the city center. Residing at 1st floor, in its native building this shop can be bought at a sort after price of Rs 72,45,677. Covering a large area of 1200 sqft, this shop is furnished and has seperate washrooms attached as well. Distinctive 3 parking spaces adds on to the value of property and remarkable facilities including central wi-fi and presence of balcony is also there."
+	},
+	{
+		"keywords": "peaceful vicinity, near city center, investment opportunity, spacious",
+		"city": "Banglore",
+		"locality": "academic city",
+		"area": 1500,
+		"area_unit": "sqft",
+		"price": 3456999,
+		"furnishing": "Semi-Furnished",
+		"washroom_present": "yes",
+		"parking": 3,
+		"floor_number": 6,
+		"amenities": "attached market, 24x7 security, balcony, central wi-fi, cleaning services",
+		"description":"With a spacious area, valuable amenities and vicinity like no other, here is an commerecial shop open for Sale. At an utterly affordable price point, this shop lies centrally in the locality of academic city in Banglore. At exact price of Rs. 34,56,999, a good area of 1500 sqft located in the safest part of locality. This shop area is Semi-Furnished, equipped with washroom, 4 distinct parking slots as well. Near the city center, shop is situated at the 6th floor of the native building. Presence of balcony and other dynamic amenities makes it a great investment opportunity."
+	},
+	{
+		"keywords": "peaceful vicinity, prime location, investment opportunity, renovated",
+		"city": "Delhi",
+		"locality": "patel nagar",
+		"area": 1200,
+		"area_unit": "sqft",
+		"price": 5000000,
+		"furnishing": "Unfurnished",
+		"washroom_present": "no",
+		"parking": 4,
+		"floor_number": 5,
+		"amenities": "large green area, medical facility, 24 hour security",
+		"description":"Peaceful vicinity of patel nagar is known for its luxurious homes and commercial complexes. In that vicinity, this Unfurnished shop is just released open for Sale. Covering a spacious area of 1200 sqft, this retail shop is present at the 5th floor in its native building. Having 4 distinct parkings, this shop can be bought at a justified price of Rs. 50,00,000. Committing 24 hour of security, shop is just adjacent to a large green area and medical facility as well."
+	}
+]

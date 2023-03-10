@@ -1,0 +1,57 @@
+[
+ { 
+  "keywords": "Peaceful vicinity, Breakthrough price, Well ventilated, Spacious, prime location",
+	"city": "Pune",
+	"locality": "Aher123",
+	"area": 1800, 
+	"area_unit": "sqft",
+	"price": 57889,
+	"furnishing": "furnished", 
+	"bedrooms": 7,
+	"property_age": "5-7 years",
+	"bathrooms": 3,
+	"parking": 1,
+	"facing": "East",
+	"floor_number": 10,
+	"total_floor_count": 20,
+	"amenities": "power backup, 24 hour security services, medical facilities",
+	"description": "A furnished 1800 sqft apartment is listed for rent in Ahar123, Pune which can be rented at a break-through and affordable price of Rs. 57,889. This east facing apartment has 7 bedrooms with 3 bathrooms as well. Apartment is located at 10th floor in a 20 storey building, though property is aged at 5-7 years and also provides 1 ample parking spaces. At a price of Rs.52,67,889, residents can enjoy a well ventilated and spacious home. Aher123 is one of the safest locality of Pune, holds a variety of well developed properties which lets the residents have an easy and luxurious life style with affordable prices. Facilities including power back-up and 24 hour security, makes this property extra special for families." 
+
+	},
+    {
+	"keywords": "Peaceful vicinity, well ventilated, luxury lifestyle, spacious, vastu compliant",
+	"city": "Gurgaon",
+	"locality": "DLF phase 2",
+	"area": 2000,
+	"area_unit": "sqft",
+	"price": 11000000,
+	"furnishing": "semi-furnished", 
+	"bedrooms": 3.5,
+	"property_age": "2-4 years",
+	"bathrooms": 6,
+	"parking": 2,
+	"facing": "East",
+	"floor_number": 8,
+	"total_floor_count": 12,
+	"amenities": "power backup, Clubhouse, attached market, central AC",
+	"description": "DLf phase 2 is one of the posh localities of Gurgaon and is well equipped with the facilities and green environment required to have a healthy and stable life.  In such peaceful vicinity, this well ventilated apartment is present with a massive area of 2000 sqft.  This semi-furnished apartment is functional and is vastu compliant as well. Here are some interesting insights, the whole area has 3.5 bedrooms with 6 bathrooms. This east facing apartment, is proven to provide a luxurious lifestyle to the residents. With attached market within locality, apartment is listed at Rs.10,00,000. Placed at the 8th floor on 12 storey building, the property does come with 2 ample parkings as well."
+ },
+ {
+ 	"keywords": "Reputed builder, Fully renovated, luxury lifestyle, Family",
+	"city": "Banglore",
+	"locality": "Academic city",
+	"area": 1800,
+	"area_unit": "sqft",
+	"price": 42000,
+	"furnishing": "unfurnished", 
+	"bedrooms": 3,
+	"property_age": "7 years",
+	"bathrooms": 1,
+	"parking": 2,
+	"facing": "South West",
+	"floor_number": 16,
+	"total_floor_count": 24,
+	"amenities": "Maintenance staff, cleaning services, balcony, built in wardrobe, day care center, attached market",
+	"description": "Academic city, Banglore - Providing a luxury lifestyle and that too on a reasonable rent of Rs. 42,000 has been the star mark of this locality. Under such prestige locality, this South West facing apartment has been listed out for Rent. With 1800 sqft of total area, 3 bedrooms and 1 bathroom have been designed. This  unfurnished apartment comes from reputed builder which makes it safe and secure. Apartment is on 16th floor in a 24 storey residential building. Ample space for parking, maintenance staff and cleaning services comes with the apartment at a price of 8004080 INR. Residents who seek a luxury lifestyle with the comfort and safety of a gated society are the best suited for the apartment. Academic city offes a peaceful vicinity in a cluster of sky rised buildings and apartments."
+ }
+]

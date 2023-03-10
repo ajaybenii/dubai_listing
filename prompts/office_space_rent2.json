@@ -1,0 +1,53 @@
+[
+	{
+		"keywords": "peaceful vicinity,investment oppurtunity, renovated, safe and secure locality, spacious",
+		"city": "Lucknow",
+		"locality": "nishat ganj",
+		"area": 250,
+		"area_unit": "sqyd",
+		"price": 178000,
+		"furnishing": "unfurnished",
+		"washroom_present": "no",
+		"parking": 3,
+		"office_space_type": "fitted",
+		"pantry": "dry",
+		"facing": "west",
+		"floor_number": 8,
+		"amenities": "CCTV security, large green area, medical facility, 24 hour security,  balcony, central wi-fi",
+		"description": "In one of the most dynamic and modern commercial localities of Lucknow, this office space is released on for RENT. In affordable rent of Rs. 1,78,000, the office space provides a good area of 250 sqyd including a dry pantry as well. With well fitted space, 3 parkings are also there which are completed safe and spacious. Facing towards west, office space sits at 8th floor in its building. Present centrally in vicinity of nishant ganj, this office space is affordable for both the new business owners and that of enterprises too. CCTV security and medical facilities also emphasize the quality of this commercial place."
+	},
+	{
+		"keywords": "peaceful vicinity,investment oppurtunity, renovated, safe and secure locality, spacious",
+		"city": "Gurgaon",
+		"locality": "Sector 58",
+		"area": 2500,
+		"area_unit": "sqft",
+		"price": 69000,
+		"furnishing": "furnished",
+		"washroom_present": "yes",
+		"parking": 5,
+		"office_space_type": "fitted",
+		"pantry": "dry",
+		"facing": "north east",
+		"floor_number": 12,
+		"amenities": "CCTV security, large green area, medical facility, 24 hour security,  balcony, central wi-fi",
+		"description":"Centrally located, this office space has recently came up for rent within the safe and spacious locality of sector 58, which is known for its posh and quality neighbourhood. 2500 sqft of area is avilable at a rent of just Rs. 69,000 providing washroom and dry pantry as well. With 5 parkings, office space is renovated and have a balcony as well. North east facing this office space sits at floor number 12th, equipped with CCTV security and medical facility. A combination of spacious area and an reasonable price makes this office space, choice for commercial buyers making it a superb investment opportunity. Central wi-fi and balcony is also present."
+	},
+	{
+		"keywords": "peaceful vicinity,investment oppurtunity, renovated, safe and secure locality, spacious",
+	    "city": "Banglore",
+	    "locality": "jayanagar",
+	    "area": 2000,
+	    "area_unit": "sqft",
+	    "price": 156000,
+	    "furnishing": "furnished",
+	    "washroom_present": "yes",
+	    "parking": 6,
+	    "office_space_type": "fitted",
+	    "pantry": "wet",
+	    "facing": "south east",
+	    "floor_number": 7,
+	    "amenities": "CCTV security, large green area, medical facility, 24 hour security",
+	    "description": "This modern built office space is on for RENT with remarkable facilities. At Rs 1,56,000 and being furnished there are 6 distinct parking with a wet pantry available as well which justifies the price well enough. Surrounded with large area, the property lies centrally in locality of Jayanagar, Bangalore. Covering an overall area of 2000 sqft, the property is facing towards south east. At a sophisticated price point, this office space covers an epitome of amenities which include 24 hour security, medical facility just adjacent to the property. Present at the 7th floor, this furnished office space holds washroom within the property and medical facility as well."
+	}
+]

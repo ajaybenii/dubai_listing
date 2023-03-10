@@ -1,0 +1,58 @@
+[
+   {
+    "keywords": "impressive, investment, affordable",
+    "city": "Ajman",
+    "locality": "Al Mwaihat",
+    "area": 62,
+    "area_unit": "Square Yards",
+    "price": 11000000,
+    "furnishing": "Semi-Furnished",
+    "washroom_present": "yes",
+    "parking": 3,
+    "floor_number": 4,
+    "amenities":  "parking for visitors",
+    "description": "An impressive 62 square yards showroom will make for a great investment opportunity, particularly for its affordable rental amopunt of AED 1,10,00,000. The showroom gets its own personal washroom along with 3 accompanying car parking spaces alongside. The Al Mwaihat is a buzzing connectivity and retail hub in Ajman, offering excellent transportation facilities and sizable retail crowd footfall. This semi-furnished showroom lies on the 4th floor of the building in a prime location. Major amenities include parking for visitors."
+   },
+   {
+    "keywords": "breakthrough, prime, public transportation",
+    "city": "Dubai",
+    "locality": "Dubai Creek Harbour",
+    "area": 1250,
+    "area_unit": "Square Feet",
+    "price": 150000,
+    "furnishing": "Furnished",
+    "washroom_present": "yes",
+    "parking": 3,
+    "floor_number": 4,
+    "amenities": "24 hour security, power backup, visitors’ parking facilities",
+    "description": "A 1250 square feet showroom at a rent of AED 1,50,000 will be a breakthrough investment opportunity in such a prime location. The showroom  gets its own washroom while also offering 6 parking spaces for renters which is hugely convenient. Dubai Creek Harbour is a major residential, commercial and retail hub in Dubai Creek Harbour, close to public transportation and with wide roads and thoroughfares. It is a furnished showroom  and is on the 3rd floor. Available amenities include 24 hour security, power backup and visitors’ parking facilities."
+   },
+   {
+    "keywords": "elegant, ideal, wide roads",
+    "city": "Sharjah",
+    "locality": "Al Khan",
+    "area": 210,
+    "area_unit":  "Square Feet",
+    "price": 40000,
+    "furnishing": "Unfurnished",
+    "washroom_present": "no",
+    "parking": 3,
+    "floor_number": 2,
+    "amenities":  "24 hour security",
+    "description": "An elegant 210 square feet showroom is available at a really compelling rental price of AED 40,000 making it an ideal option for individual buyers and companies alike. Al Khan is a prime location in Sharjah with access to wide roads, close to public transportation facilities and availability of all necessary infrastructure and amenities. It is a unfurnished showroom on the second floor with more than 3 parkings. 24 hour security is available in amenities with this showroom."
+   },
+   {
+    "keywords": "premium, affordable, fantastic, prime",
+    "city": "Ajman",
+    "locality": "Emirates City",
+    "area": 790,
+    "area_unit":  "Square Feet",
+    "price": 20000034,
+    "furnishing": "Furnished",
+    "washroom_present": "no",
+    "parking": 4,
+    "floor_number": 6,
+    "amenities":  "conference room, central Wi-Fi, 24 hour security, power backup and parking for visitors",
+    "description": "A premium 790 square feet showroom is available for rent at an affordable price point of AED 2,00,00,034 a fantastic investment opportunity for businesses. This is a amazing showroom with an accompanying parking space of 4, suitable for businesses and offices of self employed professionals alike. The prime location of Emirates City, Ajman, is what gives an added USP to this property. This is a furnished showroom and the unit lies on the 6th floor.The showroom is accompanied by amenities like a conference room, central Wi-Fi, 24 hour security, power backup and parking for visitors."
+   }
+]

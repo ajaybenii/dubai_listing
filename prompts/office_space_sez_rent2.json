@@ -1,0 +1,53 @@
+[
+	{
+		"keywords": "peaceful vicinity,ample parking , tasteful interiors",
+		"city": "Banglore",
+		"locality": "academic county",
+		"area": 1200,
+		"area_unit": "sqyd",
+		"price": 2000000,
+		"furnishing": "Unfurnished",
+		"office_space_type": "semi- fitted",
+		"pantry": "dry",
+		"washroom_present": "yes",
+		"parking": 10,
+		"facing": "north west",
+		"floor_number": 5,
+		"amenities": "24x7 security, large green area, medical facility",
+		"description": "In the upscale and posh commercial locality of academic city in Banglore, this office space for IT/SEZ is released in the market open for Rent. This  Unfurnished office space is equipped with dynamic tasteful interiors and is on the 5th floor of the building. A good 1200 sqyd of coverage area can be rented within Rs. 20,00,000. A total of 10 parking, space for dry pantry and washrooms are also available while the building is facing towards north west. With convenient facilities all around the office space, this location is a prime choice for many tenants because of the profitable investment. Top notch amenities including 24x7 security and medical facility makes it more valuable. Though semi-fitted, this office space holds a good green area as well."
+	},
+	{
+		"keywords": "safe and secure locality, spacious",
+		"city": "Lucknow",
+		"locality": "aurangbad",
+		"area": 2500,
+		"area_unit": "sqft",
+		"price": 5672300,
+		"furnishing": "furnished",
+		"office_space_type": "fitted",
+		"pantry": "wet",
+		"washroom_present": "no",
+		"parking": 4,
+		"facing": "north east",
+		"floor_number": 8,
+		"amenities": "attached market, 24x7 security, balcony, central wi-fi, reception, cleaning services, security staff, maintenance staff, CCTV security",
+		"description": "Under a commercially viable locality of aurangbad in Lucknow, lies this office space for IT/SEZ covering a spacious area to explore the modular outlook of the office space. Office space is spread in a good area of 2500 sqft which is all very well Furnished and balcony space is also given. 4 parking spaces, wet pantry also come up with the office space at rental price of Rs. 56,72,300. Facing north east, the native building has 24x7 security as well and is on the 8th floor. There are several amenities like central wi-fi, reception and cleaning services etc which makes this place perfect for tenants."
+	},
+	{
+		"keywords":"public transportation, wide roads, safe and secure locality",
+		"city":"Delhi",
+		"locality":"Patel Nagar",
+		"area": 1250,
+		"area_unit": "sqft",
+		"price": 2000000,
+		"furnishing": "Semi-Furnished",
+		"office_space_type": "semi fitted",
+		"pantry": "dry",
+		"washroom_present": "yes",
+		"parking": 3,
+		"facing": "west",
+		"floor_number": 7,
+		"amenities": "24 hour security, power backup and visitors’ parking facilities",
+		"description": "With remarkable facilities and top notch security, Patel Nagar in Delhi is known for its custom build office spaces and commercial areas. Under such vicinity, this office space in IT/SEZ is recently opened on Rent. This area can be rented in Rs. 20,00,000 which is justified price considering this office space holds a dry pantry, washroom and 3 parking spaces as well. Being a great investment to the tenants, this office space holds a good 1250 sqft of area, all divided for commercial purpose. Being Semi-Furnished, 24 hour security is one of its greatest asset. Adjacent to the wide road, this office space is facing towards west and is semi-fitted in nature. It is on the 7th floor and have visitor's parking."
+	}
+]
